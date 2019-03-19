@@ -7,7 +7,7 @@ your version control system.
 
 ## How to use NewRelic Alerts Configurator
 
-First step is to obtain API key for given NewRelic account. Then You can create configuration. For example:
+First step is to obtain API key for given NewRelic account. Then you can create configuration. For example:
 
 ```java
 // Create alert condition
